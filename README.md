@@ -44,9 +44,9 @@ Available Examples
 
 Tutorials
 ----------------------------
-* [Arduino MicroPython - LED Matrix 8x8](https://newbiely.com/tutorials/arduino-micropython/arduino-micropython-led-matrix)
-* [ESP32 MicroPython - LED Matrix 8x8](https://newbiely.com/tutorials/esp32-micropython/esp32-micropython-led-matrix)
-* [Raspberry Pi Pico - LED Matrix 8x8](https://newbiely.com/tutorials/raspberry-pico/raspberry-pi-pico-led-matrix)
+* [Arduino MicroPython - LED Matrix](https://newbiely.com/tutorials/arduino-micropython/arduino-micropython-led-matrix)
+* [ESP32 MicroPython - LED Matrix](https://newbiely.com/tutorials/esp32-micropython/esp32-micropython-led-matrix)
+* [Raspberry Pi Pico - LED Matrix](https://newbiely.com/tutorials/raspberry-pico/raspberry-pi-pico-led-matrix)
 
 
 
